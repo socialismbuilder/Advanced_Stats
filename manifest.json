@@ -1,0 +1,11 @@
+{
+  "name": "Advanced Stats",
+  "description": "为Anki添加高级统计功能，提供详细的学习数据可视化图表",
+  "version": "1.0.0",
+  "author": "xie",
+  "package": "Advanced_Stats",
+  "modules": [
+    "__init__.py",
+    "stats.py"
+  ]
+}
