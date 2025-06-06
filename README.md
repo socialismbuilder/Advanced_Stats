@@ -1,6 +1,6 @@
 # Advanced Stats (ContextFlow子插件)
 
-插件编号:`待发布占位`
+插件编号:`2134069157`
 
 ## 说明
 
@@ -36,6 +36,10 @@
    - 与官方统计同步切换牌组
    - 时间范围选择即时更新
    - 实时反映学习进度变化
+
+## 截图示例
+
+![截图示例](https://github.com/socialismbuilder/Advanced_Stats/blob/main/picture/截图1.png)
 
 ## 使用说明
 
