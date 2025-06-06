@@ -39,7 +39,7 @@
 
 ## 截图示例
 
-![截图示例](https://github.com/socialismbuilder/Advanced_Stats/blob/main/picture/截图1.png)
+![截图示例](https://raw.githubusercontent.com/socialismbuilder/Advanced_Stats/main/picture/截图1.png)
 
 ## 使用说明
 
